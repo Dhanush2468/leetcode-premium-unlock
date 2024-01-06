@@ -35,10 +35,6 @@ Unlock Leetcode's premium features without a subscription using the Leetcode Pre
 
 ![Load Unpacked](https://github.com/31b4/Leetcode-Premium-Bypass/assets/75566095/3732c9af-b928-46d2-89a0-e0be17c46169)
 
-2. Select the unzipped folder from Step 1.
-
-![Select Folder](https://github.com/31b4/Leetcode-Premium-Bypass/assets/75566095/d55e46a0-510e-4090-9844-321a07e99154)
-
 ## Usage
 
 ### Step 4: Test the Extension
