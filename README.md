@@ -3,10 +3,7 @@
 Unlock Leetcode's premium features without a subscription using the Leetcode Premium Bypass Chrome extension.
 
 - Credits: 
-    - Original creator of the extension: [@Edwardsoen](https://github.com/Edwardsoen), check the original repo [here](https://github.com/Edwardsoen/Leetcode-Premium-Unlocker)
-    - A helpful contributor: [@Gourav-21](https://github.com/Gourav-21)
-## Video Tutorial
-Watch the installation guide on [YouTube](https://www.youtube.com/watch?v=tARc8QI5AnE).
+    - Original creator of the extension: [@whitedevil](https://github.com/Dhanush2468), check the original repo [here](https://github.com/Dhanush2468/leetcode-premium-unlock)
 
 ## Table of Contents
 - [Installation](#installation)
@@ -21,7 +18,7 @@ Watch the installation guide on [YouTube](https://www.youtube.com/watch?v=tARc8Q
 
 ### Step 1: Download and Unzip
 
-1. Download the latest release [here](https://github.com/31b4/Leetcode-Premium-Bypass/releases/latest).
+1. Download the latest release [here](https://github.com/Dhanush2468/leetcode-premium-unlock).
 2. Unzip the downloaded file.
 
 ### Step 2: Enable Developer Mode
